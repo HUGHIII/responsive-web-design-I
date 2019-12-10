@@ -462,6 +462,7 @@ li {
     flex-direction: column;
     text-align: center;
     
+    
 
     
 }
@@ -472,8 +473,36 @@ li {
     
 }
 
+.a {
+    padding:3%;
+    border-bottom:1px solid black
+
+}
 
 
+.aServ {
+    padding:3%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.top-content {
+    flex-direction: column;
+    padding:5% 0%;
+    
+   
+}
+
+.topFeatAbt p {
+
+    margin-right:-125%;
+}
+ 
+.secTwo {
+    flex-direction: column;
+    padding:5% 0;
+    
+}
 
 
 }
